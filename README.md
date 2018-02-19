@@ -101,3 +101,4 @@ sh /usr/local/hadoop/sbin/stop-all.sh
 /usr/local/hadoop/bin/hadoop fs -df -h
 ```
 
+[출처](http://www.bench87.com/content/44) 
